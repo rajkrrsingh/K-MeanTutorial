@@ -15,7 +15,7 @@ Perfect for Google Colab! Just run each cell sequentially.
 
 # DBSCAN clustering Algorithm
 This notebook introduces the DBSCAN clustering algorithm with an intuitive explanation and hands-on examples.  
-[Open dbscan_tutorial.ipynb](dbscan_tutorial.ipynb)
+[Open dbscan_tutorial.ipynb](DBSCAN_Tutorial.ipynb)
 
 What you'll learn:
 - The core concepts behind DBSCAN (density-based clustering)
